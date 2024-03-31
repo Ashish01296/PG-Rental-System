@@ -36,7 +36,7 @@ Before getting started with PG-Rental, ensure you have the MERN prerequisites in
 1. **Clone the Repository:** Clone the PG-Rental repository to your local machine using the following command:
 
     ```
-    git clone https://github.com/jugalupadhyay/PG-Rental.git
+    https://github.com/Ashish01296/PG-Rental-System.git
     ```
 
 2. **Fill out links:**
